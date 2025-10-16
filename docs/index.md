@@ -1,7 +1,8 @@
 ---
-layout: home
+layout: post
+title: Home
 ---
 
 # Welcome to My Blog
 
-This is my blog with auto-generated voice posts.
+This is my blog. Under construction
